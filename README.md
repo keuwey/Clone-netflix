@@ -18,7 +18,7 @@ And then do:
 ```
 ## Screenshots
 
-![Site Screenshot]('Recriando a interface da Netflix/img/print.png')
+![Site Screenshot](recriando-a-interface-da-netflix/img/print.png)
 ## Autor
 
 - [@keuwey](https://www.github.com/keuwey)
